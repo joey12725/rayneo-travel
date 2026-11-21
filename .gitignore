@@ -1,0 +1,7 @@
+build/
+.gradle/
+local.properties
+.idea/
+*.log
+node_modules/
+.DS_Store
